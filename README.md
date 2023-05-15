@@ -13,5 +13,5 @@ Algunas funciones que se usan son:
 5. sample  
 
 ### INTEGRANTES:  
-> Benjamin Samuel Villanueva Hidalgo  
-> Luis David Diaz Paniagua
+> Benjamin Samuel Villanueva Hidalgo - Benjamin1833   
+> Luis David Diaz Paniagua - LuisDiaz1
